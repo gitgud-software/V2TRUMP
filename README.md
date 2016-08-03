@@ -1,4 +1,4 @@
-# TrumpCoin 2.0
+# V2TRUMP
 
 [![Build Status](https://travis-ci.org/gitgud-software/V2TRUMP.svg?branch=master)](https://travis-ci.org/gitgud-software/V2TRUMP)
 
